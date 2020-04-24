@@ -1,0 +1,9 @@
+enum
+{
+	BM_Ref_lcd_letter_m,
+	BM_Ref_lcd_letter_a,
+	BM_Ref_lcd_letter_k,
+	BM_Ref_lcd_letter_s,
+	BM_Ref_lcd_image_logo,
+	BM_Ref_MAXVALUE
+};

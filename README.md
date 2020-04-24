@@ -9,4 +9,6 @@
 
 >[Lab4 -> main.c](/Lab4/main.c)
 
->[Lab4 -> main.c](/Lab5/User/main.c)
+>[Lab5 -> main.c](/Lab5/User/main.c)
+
+>[Lab6 -> main.c](/Lab6/main.c)
