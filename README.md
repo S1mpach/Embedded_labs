@@ -13,4 +13,4 @@
 
 >[Lab6 -> main.c](/Lab6/main.c)
 
->[Lab7 -> main.c](/Lab6/User/main.c)
+>[Lab7 -> main.c](/Lab7/User/main.c)
